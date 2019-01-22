@@ -1,0 +1,18 @@
+{
+	"addCrc":true,
+	"cleanPublishPath":false,
+	"packGroups":[],
+	"publishCopyAll":false,
+	"publishPath":"G:/github/bigfight/client/bigfight/resource/",
+	"sourcePath":"G:/github/bigfight/client/res/",
+	"unPackGroup":[
+		{
+			"compress":false,
+			"key":"70027_tex_png"
+		},
+		{
+			"compress":false,
+			"key":"texture_png"
+		}
+	]
+}
