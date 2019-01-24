@@ -1,0 +1,45 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,BlueSkin,common,loading,loading_atlas0,BlueSkin_atlas0,common_atlas0",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/BlueSkin.fui",
+			"type": "bin",
+			"name": "BlueSkin"
+		},
+		{
+			"url": "assets/common.fui",
+			"type": "bin",
+			"name": "common"
+		},
+		{
+			"url": "assets/loading.fui",
+			"type": "bin",
+			"name": "loading"
+		},
+		{
+			"url": "assets/loading_atlas0.jpg",
+			"type": "image",
+			"name": "loading_atlas0"
+		},
+		{
+			"url": "assets/BlueSkin_atlas0.png",
+			"type": "image",
+			"name": "BlueSkin_atlas0"
+		},
+		{
+			"url": "assets/common_atlas0.png",
+			"type": "image",
+			"name": "common_atlas0"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" adaptationTest="FitHeightAndSetCenter">
+  <displayList>
+    <image id="n5_vlf2" name="n5" src="h16h0" fileName="ui_di4.jpg" xy="-147,-150"/>
+    <text id="n3_h16h" name="n3" xy="-1,2" size="95,37" fontSize="30" color="#ff0000" text="dfgdfg&#xA;"/>
+    <component id="n4_h16h" name="startGameBtn" src="h16h3" fileName="button/GreenBtn.xml" pkg="1h136af7" xy="500,434">
+      <Button title="开始游戏" titleFontSize="30"/>
+    </component>
+    <component id="n6_vlf2" name="n6" src="pnc018" fileName="Button.xml" pkg="18xuqtff" xy="474,286" size="196,100">
+      <Button title="开始" titleFontSize="30"/>
+    </component>
+  </displayList>
+</component>

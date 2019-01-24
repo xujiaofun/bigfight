@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="18xuqtff" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="pnc00" name="ListItem.xml" path="/components/"/>
+    <image id="pnc01" name="listitem-selected.png" path="/images/" exported="true" scale="9grid" scale9grid="6,3,33,15"/>
+    <image id="pnc02" name="listitem-over.png" path="/images/" exported="true" scale="9grid" scale9grid="8,4,31,14"/>
+    <component id="pnc03" name="ScrollBar_arrow.xml" path="/components/"/>
+    <image id="pnc04" name="scrollbar-button.png" path="/images/" exported="true" scale="9grid" scale9grid="6,4,37,7"/>
+    <image id="pnc05" name="scrollbar-button-over.png" path="/images/" exported="true" scale="9grid" scale9grid="5,4,34,7"/>
+    <component id="pnc06" name="ScrollBar_grip.xml" path="/components/"/>
+    <component id="pnc07" name="ComboBox_popup.xml" path="/components/"/>
+    <image id="pnc08" name="popup-bg.png" path="/images/" exported="true" scale="9grid" scale9grid="10,14,75,74"/>
+    <component id="pnc09" name="WindowCloseButton.xml" path="/components/"/>
+    <image id="pnc0a" name="cross_light_small.png" path="/images/" exported="true"/>
+    <image id="pnc0b" name="button-down.png" path="/images/" exported="true" scale="9grid" scale9grid="10,7,32,8"/>
+    <image id="pnc0c" name="button-normal.png" path="/images/" exported="true" scale="9grid" scale9grid="14,7,28,13"/>
+    <image id="pnc0d" name="button-over.png" path="/images/" exported="true" scale="9grid" scale9grid="11,7,31,11"/>
+    <image id="pnc0e" name="checkbox.png" path="/images/" exported="true"/>
+    <image id="pnc0f" name="cross_dark.png" path="/images/" exported="true"/>
+    <image id="pnc0g" name="checkbox-disabled.png" path="/images/" exported="true"/>
+    <image id="pnc0h" name="cross_dark_disabled.png" path="/images/" exported="true"/>
+    <image id="pnc0i" name="button-disabled.png" path="/images/" exported="true" scale="9grid" scale9grid="10,7,32,11"/>
+    <image id="pnc0j" name="circle_dark.png" path="/images/" exported="true"/>
+    <image id="pnc0k" name="TextInput.png" path="/images/" exported="true" scale="9grid" scale9grid="6,6,86,18"/>
+    <image id="pnc0l" name="gripper_horizontal.png" path="/images/" exported="true"/>
+    <image id="pnc0m" name="gripper_vertical.png" path="/images/" exported="true"/>
+    <image id="pnc0n" name="hslider-bg.png" path="/images/" exported="true" scale="9grid" scale9grid="14,4,64,4"/>
+    <image id="pnc0o" name="hslider-value.png" path="/images/" exported="true" scale="9grid" scale9grid="13,3,26,4"/>
+    <image id="pnc0p" name="vslider-bg.png" path="/images/" exported="true" scale="9grid" scale9grid="4,6,4,90"/>
+    <image id="pnc0q" name="vslider-value.png" path="/images/" exported="true" scale="9grid" scale9grid="3,6,3,36"/>
+    <image id="pnc0r" name="list-bg.png" path="/images/" exported="true" scale="9grid" scale9grid="25,25,50,50"/>
+    <image id="pnc0s" name="hpogress-value.png" path="/images/" exported="true" scale="9grid" scale9grid="13,3,28,3"/>
+    <image id="pnc0t" name="hprogress-bg.png" path="/images/" exported="true" scale="9grid" scale9grid="26,3,52,4"/>
+    <image id="pnc0u" name="scrollbar-bg.png" path="/images/" exported="true" scale="9grid" scale9grid="4,2,40,10"/>
+    <image id="pnc0v" name="arrow_right.png" path="/images/" exported="true"/>
+    <image id="pnc0w" name="arrow_up.png" path="/images/" exported="true"/>
+    <image id="pnc0x" name="arrow_down.png" path="/images/" exported="true"/>
+    <image id="pnc0y" name="arrow_left.png" path="/images/" exported="true"/>
+    <image id="pnc0z" name="tab-button-normal.png" path="/images/" exported="true"/>
+    <image id="pnc010" name="tab-button-over.png" path="/images/" exported="true"/>
+    <image id="pnc011" name="tab-button-selected.png" path="/images/" exported="true"/>
+    <image id="pnc012" name="window-bg.png" path="/images/" exported="true" scale="9grid" scale9grid="13,13,78,76"/>
+    <image id="pnc013" name="window-titlebar.png" path="/images/" exported="true" scale="9grid" scale9grid="8,8,64,16"/>
+    <image id="pnc014" name="blue-document-css.png" path="/images/" exported="true"/>
+    <image id="pnc015" name="blue-document-xml.png" path="/images/" exported="true"/>
+    <image id="pnc016" name="fav_16.png" path="/images/" exported="true"/>
+    <image id="pnc017" name="information.png" path="/images/" exported="true"/>
+    <component id="pnc018" name="Button.xml" path="/" exported="true"/>
+    <component id="pnc019" name="Demo.xml" path="/"/>
+    <component id="pnc01a" name="Checkbox.xml" path="/" exported="true"/>
+    <component id="pnc01b" name="RadioButton.xml" path="/" exported="true"/>
+    <component id="pnc01c" name="InputTextField.xml" path="/" exported="true"/>
+    <component id="pnc01d" name="InputTextArea.xml" path="/" exported="true"/>
+    <component id="pnc01e" name="SliderH.xml" path="/" exported="true"/>
+    <component id="pnc01f" name="Button_icon.xml" path="/" exported="true"/>
+    <component id="pnc01g" name="SliderV.xml" path="/" exported="true"/>
+    <component id="pnc01h" name="ProgressBar.xml" path="/" exported="true"/>
+    <component id="pnc01i" name="ComboBox.xml" path="/" exported="true"/>
+    <component id="pnc01j" name="WindowFrame.xml" path="/" exported="true"/>
+    <component id="pnc01k" name="Button_icon_text.xml" path="/" exported="true"/>
+    <component id="pnc01l" name="TabButton.xml" path="/" exported="true"/>
+    <component id="pnc01m" name="ScrollBarH.xml" path="/" exported="true"/>
+    <component id="pnc01n" name="ScrollBarV.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="BlueSkin"/>
+</packageDescription>

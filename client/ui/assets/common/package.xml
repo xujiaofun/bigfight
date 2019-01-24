@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1h136af7" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="h16h0" name="ui_green_cc.png" path="/button/"/>
+    <image id="h16h1" name="ui_ui_yellow_cc.png" path="/button/"/>
+    <image id="h16h2" name="ui_button_guanbi.png" path="/button/"/>
+    <component id="h16h3" name="GreenBtn.xml" path="/button/" exported="true"/>
+  </resources>
+  <publish name="common" genCode="true"/>
+</packageDescription>

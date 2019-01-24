@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="14p6n2g7" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="h16h0" name="ui_di4.jpg" path="/"/>
+    <component id="h16h1" name="loadingUI.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="loading" genCode="true"/>
+</packageDescription>
