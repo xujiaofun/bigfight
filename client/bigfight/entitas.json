@@ -1,0 +1,21 @@
+{
+  "namespace": "gg",
+  "src": "src",
+  "output": {
+    "javascript": "libs/modules/ext/generatedExtensions.js",
+    "typescript": "src/generatedComponents.ts",
+    "declaration": "libs/modules/ext/gg.d.ts"
+  },
+  "alloc": {
+    "entities": 128,
+    "components": 64
+  },
+  "components": {
+    "Position": [
+      "x:number",
+      "y:number"
+    ]
+  },
+  "systems": {},
+  "entities": {}
+}

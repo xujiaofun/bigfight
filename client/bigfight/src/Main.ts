@@ -105,7 +105,8 @@ class Main extends egret.DisplayObjectContainer {
         
         this.stage.addChild(fairygui.GRoot.inst.displayObject);
 
-        let view = new MainMenu();
+        // let view = new MainMenu();
+        this.stage.addChild(new gg.GameController())
     }
 
     /**
